@@ -1,0 +1,12 @@
+# gitignore configuration
+
+# package files
+.jar
+.war
+.ear
+
+# generated files
+.class
+
+# directories
+out/*
